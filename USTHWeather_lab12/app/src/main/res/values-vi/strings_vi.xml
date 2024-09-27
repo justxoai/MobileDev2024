@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="paris">Paris</string>
+    <string name="hanoi">Hà Nội</string>
+    <string name="hcmc">Thành phố Hồ Chí Minh</string>
+
+    <string name="mon">Thứ Hai</string>
+    <string name="tue">Thứ Ba</string>
+    <string name="wed">Thứ Tư</string>
+    <string name="thu">Thứ Năm</string>
+    <string name="fri">Thứ Sáu</string>
+    <string name="sat">Thứ Bảy</string>
+    <string name="sun">Chủ Nhật</string>
+
+    <string name="pc">Có mây rải rác\n24°C - 31°C</string>
+    <string name="s">Mưa rào\n24°C - 30°C</string>
+    <string name="r">Mưa\n22°C - 23°C</string>
+    <string name="ss">Mưa rào lác đác\n22°C - 27°C</string>
+    <string name="mc">Nhiều mây\n22°C - 30°C</string>
+    <string name="t">Dông\n25°C - 28°C</string>
+    <string name="st">Dông lác đác\n24°C - 27°C</string>
+
+</resources>
