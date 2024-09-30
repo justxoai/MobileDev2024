@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">USTH Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="paris">Paris</string>
+    <string name="hanoi">Ha Noi</string>
+    <string name="hcmc">Ho Chi Minh City</string>
+
+    <string name="mon">Monday</string>
+    <string name="tue">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thu">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+    <string name="sun">Sunday</string>
+
+    <string name="pc">Partly Cloudy\n24C - 31C</string>
+    <string name="s">Showers\n24C - 30C</string>
+    <string name="r">Rain\n22C - 23C</string>
+    <string name="ss">Scattered Showers\n22C - 27C</string>
+    <string name="mc">Mostly Cloudy\n22C - 30C</string>
+    <string name="t">Thunderstorms\n25C - 28C</string>
+    <string name="st">Scattered Thunderstorms\n24C - 27C</string>
+
+</resources>
